@@ -1,0 +1,9 @@
+### VisualStudioCode ###
+.vscode/**/*
+
+###  vercel ###
+.vercel
+
+### OS generated files ###
+.DS_Store
+Thumbs.db
